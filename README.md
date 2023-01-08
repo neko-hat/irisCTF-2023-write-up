@@ -6,4 +6,7 @@
 ### [meaning of python 1](https://github.com/neko-hat/irisCTF-2023-write-up/tree/main/Rev/meaning%20of%20python%201)    
 ### [meaning of python 2](https://github.com/neko-hat/irisCTF-2023-write-up/tree/main/Rev/meaning%20of%20python%202)   
    
-"loading meaning of python 2 md file is so slow....
+```
+Warning!
+loading meaning of python 2 md file is so slow!!
+```
