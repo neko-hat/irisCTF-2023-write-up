@@ -9,4 +9,7 @@
 ```
 Warning!
 loading meaning of python 2 md file is so slow!!
+```  
+```
+Any questuons or feedbacks? -> Discord : neko_hat#1736  
 ```
